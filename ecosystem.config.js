@@ -2,7 +2,7 @@
 module.exports = {
     apps: [
         {
-            name: 'qipadmin',
+            name: 'tharith_portfolio',
             port: '3005',
             exec_mode: 'cluster',
             instances: '1',
