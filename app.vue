@@ -3,7 +3,7 @@
         <p>Yes, this is my portfolio website :D</p>
         <p>but I'm too lazy to finish it you know!</p>
         <br />
-        <p>But wait, You've come a long way not for nothing!
+        <p>By the way, you've come a long way not for nothing!
             you still can reach me out on other social platform:
         </p>
         <ul>
