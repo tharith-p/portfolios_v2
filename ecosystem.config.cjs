@@ -1,4 +1,3 @@
-
 module.exports = {
     apps: [
         {
@@ -6,7 +5,8 @@ module.exports = {
             port: '3031',
             exec_mode: 'cluster',
             instances: '2',
-            script: './.output/server/index.mjs',
+            script: 'npm',
+            args: "run dev",
             env: {}
         }
     ]
